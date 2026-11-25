@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.vercel
+.env*
+.impeccable/config.local.json
+
+# trabajo interno de diseño (mocks, gasto)
+.impeccable/
+*.tsbuildinfo
+.DS_Store
